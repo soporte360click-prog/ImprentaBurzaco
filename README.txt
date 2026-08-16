@@ -1,21 +1,16 @@
-# Imprenta Burzaco — sitio web
+IMPRENTA BURZACO - VERSION 3
 
-Sitio estático en HTML5 + CSS3 + JavaScript, pensado para SEO local y conversión.
+Actualizado:
+- Hero con ilustración de teléfono + documento listo para imprimir.
+- WhatsApp destacado: 11-3841-9255.
+- Dirección principal: Eugenio de Burzaco 724.
+- También se conserva 726 como referencia.
+- Servicios ampliados según la foto del local.
+- SEO local, Schema.org y diseño responsive.
 
-## Archivos
-- `index.html` — página principal, SEO, Schema.org y contenido.
-- `css/styles.css` — diseño responsive.
-- `js/app.js` — menú móvil y año automático.
-- `assets/logo-imprenta-burzaco.png` — logo.
-
-## Antes de publicar
-1. Reemplazar `https://www.imprentaburzaco.com.ar/` por el dominio real.
-2. Confirmar horarios de atención.
-3. Confirmar si el teléfono también funciona como WhatsApp.
-4. Revisar y completar los productos reales de Papelera Burzaco.
-5. Añadir enlaces oficiales de Instagram/Facebook si existen.
-6. Crear `sitemap.xml` y `robots.txt` para el dominio definitivo.
-7. Conectar Google Search Console y Google Business Profile.
-
-## Nota SEO
-El contenido evita inventar horarios, precios o productos concretos. Conviene completar esos datos con información real antes de indexar.
+Antes de publicar:
+- Reemplazar el dominio de ejemplo por el dominio real.
+- Confirmar horarios.
+- Confirmar la dirección final que debe figurar como principal.
+- Completar productos reales de Papelera Burzaco.
+- Crear sitemap.xml y robots.txt.
